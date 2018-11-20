@@ -1,7 +1,5 @@
-{
-  "name": "MiniTla",
-  "version": "1.0.1",
-  "description": "MiniTla",
-  "main": "bot.js",
-  "author": "KnightOfTla and Chamburr",
-}
+ "name": "MiniTla",
+ "version": "1.0.1",
+ "description": "MiniTla",
+ "main": "bot.js",
+ "author": "KnightOfTla and Chamburr",
