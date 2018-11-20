@@ -1,6 +1,6 @@
 {
-"token": "NTEwOTQ4MjIwOTAyNTcyMDU0.Dsj7vg.RKhv9uxpcJ-bYnOP1DY-cy59EfY",
-"prefix" : "!t",
-"owner": "446290930723717120",
-"adminrole": "513975110168739851"
+"token": "BOT_TOKEN",
+"prefix" : "BOT_PREFIX",
+"owner": "BOT_OWNER_ID",
+"adminrole": "BOT_ADMIN_ROLE_ID"
 }
