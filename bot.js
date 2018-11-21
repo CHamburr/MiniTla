@@ -4,7 +4,7 @@ const config = require("./config.json");
 
 client.on("ready", () => {
   console.log(`Bot has started, with ${client.users.size} users, in ${client.channels.size} channels of ${client.guilds.size} guilds.`); 
-  client.user.setActivity(`CHamburr with ${client.users.size} users`);
+  client.user.setActivity(`CHamburr with ${client.users.size} users, and Big Tla`);
 });
 client.on("guildCreate", guild => {
   console.log(`New guild joined: ${guild.name} (ID: ${guild.id}). This guild has ${guild.memberCount} members!`);
@@ -28,7 +28,7 @@ client.on("message", async message => {
   console.log(`${message.member.user.tag} (ID:${message.member.user.id}): ${message.content}`)
 
   if(command === "help") {
-    const helpMessage = "**__Commands:__**\n\n`Help`: This message.\n`Info`: Get some basic information about me.\n`Invite`: Get a link to invite me to your server.\n`Prefix`: Check my prefix.\n`Ping`: Pong! Check my latency.\n`Say`: Repeat what you said.\n`Purge <number>`: Bulk delete messages, maximum 100 at a time.\n\n**__Support Server:__**\nhttps://discord.gg/QHCV474\n\n*This bot is made proudly by CHamburr#2591.*";
+    const helpMessage = "**__Commands:__**\n\n`Help`: This message.\n`Info`: Get some basic information about me.\n`Invite`: Get a link to invite me to your server.\n`Prefix`: Check my prefix.\n`Ping`: Pong! Check my latency.\n`Say`: Repeat what you said.\n`Purge <number>`: Bulk delete messages, maximum 100 at a time.\n\n**__Support Server:__**\nhttps://discord.gg/TAdr3va\n\n*This bot is made proudly by CHamburr#2591.*";
     message.channel.send(helpMessage);
   }
   else if(command === "ping") {
