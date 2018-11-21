@@ -44,4 +44,4 @@ To update the bot, CD to the folder and run `git clone https://github.com/tlanot
 You can self host on DigitalOcean for just $5 a month. If you use [this link](https://m.do.co/c/ea8f09d701f9), you will also get a bonus of $25 once you charge your account with $5.
 
 ## Support
-You can get support for the bot on our [support server](https://discord.gg/QHCV474).
+You can get support for the bot on our [support server](https://discord.gg/TAdr3va).
