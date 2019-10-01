@@ -10,7 +10,7 @@ You can add the bot to your server with [this link](https://discordapp.com/oauth
 > You also need to get Node.js [here](https://nodejs.org/en/).
 
 The setup for this bot is pretty simple. 
-### Setup For The First Time:
+### Setup for the First Time
 1. Create a role on your main server called `Bot Admin` (or anything you like).
 1. Create a new folder for the bot, and open command prompt.
 1. CD to the folder. For example: `cd C:/Users/username/Desktop`.
@@ -34,14 +34,14 @@ Open `config.json` and put in the variables.
 
 The setup is complete.
 
-### Starting The Bot
+### Starting the Bot
 To start the bot, CD to the folder and run `node bot.js`. This is all you need to do in future to start the bot.
 
-### Updating The Bot
+### Updating the Bot
 To update the bot, CD to the folder and run `git clone https://github.com/tlanotyt/MiniTla`. You can end the current session of the bot using `^C` (Control + C) and start it again with the command `node bot.js`.
 
 ### Using DigitalOcean
-You can self host on DigitalOcean for just $5 a month. If you use [this link](https://m.do.co/c/ea8f09d701f9), you will also get a bonus of $25 once you charge your account with $5.
+You can self-host on DigitalOcean for just $5 a month. If you use [this link](https://m.do.co/c/ea8f09d701f9), you will also get a bonus of 50 dollars.
 
 ## Support
 You can get support for the bot on our [support server](https://discord.gg/TAdr3va).

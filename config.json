@@ -1,6 +1,6 @@
 {
-"token": "BOT_TOKEN",
-"prefix" : "BOT_PREFIX",
-"owner": "BOT_OWNER_ID",
-"adminrole": "BOT_ADMIN_ROLE_ID"
+    "token": "BOT_TOKEN",
+    "prefix" : "BOT_PREFIX",
+    "owner": "BOT_OWNER_ID",
+    "adminrole": "BOT_ADMIN_ROLE_ID"
 }
